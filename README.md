@@ -2,6 +2,9 @@
 
 Um gerador de box shadow apresentado por Matheus Battisti no canal de YouTube, que permite criar e visualizar sombras personalizadas em elementos HTML. Os usuários podem ajustar o deslocamento, a intensidade do borrão e o espalhamento da sombra, além de copiar as regras CSS geradas para seus projetos.
 
+---
+site -> https://guiihsantos.github.io/Gerador-BoxShadow/
+
 ## Funcionalidades
 
 - **Deslocamento Horizontal**: Ajuste a posição horizontal da sombra.
